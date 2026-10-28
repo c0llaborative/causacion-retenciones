@@ -18,7 +18,7 @@ source), ReteIVA (VAT withheld) and ICA (a municipal turnover tax whose rate
 depends on the activity code and the municipality).
 
 It is done by reading each PDF invoice and typing into a spreadsheet. It takes
-days, the rates come from a table nobody re-derives, and the errors are quiet:
+about two hours, the rates come from a table nobody re-derives, and the errors are quiet:
 a wrong rate produces a plausible number.
 
 ## What it does
